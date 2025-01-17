@@ -2,15 +2,15 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import driver from "../../Assets/Projects/driver.png";
-import attendance from "../../Assets/Projects/attendance.png";
-import disaster from "../../Assets/Projects/disaster.png";
-import valo from "../../Assets/Projects/valo.png";
-import crime from "../../Assets/Projects/crime.png";
-import irrigation from "../../Assets/Projects/irrigation.png";
-import NLP from "../../Assets/Projects/NLP.png";
-import offloading from "../../Assets/Projects/offloading.png";
+import leaf from "/Assets/Projects/leaf.png";
+import driver from "/Assets/Projects/driver.png";
+import attendance from "/Assets/Projects/attendance.png";
+import disaster from "/Assets/Projects/disaster.png";
+import valo from "/Assets/Projects/valo.png";
+import crime from "/Assets/Projects/crime.png";
+import irrigation from "/Assets/Projects/irrigation.png";
+import NLP from "/Assets/Projects/NLP.png";
+import offloading from "/Assets/Projects/offloading.png";
 
 function Projects() {
 	return (

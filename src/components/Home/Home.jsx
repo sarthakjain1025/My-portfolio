@@ -1,8 +1,8 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import img1 from "../../Assets/home/img1.svg";
-import img2 from "../../Assets/home/img2.svg";
-import img3 from "../../Assets/home/img3.svg";
+import img1 from "/Assets/home/img1.svg";
+import img2 from "/Assets/home/img2.svg";
+import img3 from "/Assets/home/img3.svg";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
