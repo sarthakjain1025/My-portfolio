@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import logo from "/Assets/logo.png";
+// import logo from "/Assets/logo.png";
 import {
 	AiFillGithub,
 	AiOutlineTwitter,
@@ -17,20 +17,20 @@ function Footer() {
 				</Col>
 				<Col md="4" className="footer-copywright">
 					<h3>
-						<img
+						{/* <img
 							src={logo}
 							className="img-fluid logo"
 							alt="brand"
 							style={{ paddingRight: "5px" }}
-						/>
-						Aneesh Raskar
+						/> */}
+						Sarthak Jain
 					</h3>
 				</Col>
 				<Col md="4" className="footer-body">
 					<ul className="footer-icons">
 						<li className="social-icons">
 							<a
-								href="https://github.com/Zephyrus02"
+								href="https://github.com/sarthakjain1025"
 								style={{ color: "white" }}
 								target="_blank"
 								rel="noopener noreferrer">
@@ -39,16 +39,7 @@ function Footer() {
 						</li>
 						<li className="social-icons">
 							<a
-								href="https://twitter.com/aneesh_raskar"
-								style={{ color: "white" }}
-								target="_blank"
-								rel="noopener noreferrer">
-								<AiOutlineTwitter />
-							</a>
-						</li>
-						<li className="social-icons">
-							<a
-								href="https://www.linkedin.com/in/aneesh-raskar-8ab10b205/"
+								href="https://www.linkedin.com/in/sarthak-jain-49a26825b"
 								style={{ color: "white" }}
 								target="_blank"
 								rel="noopener noreferrer">
@@ -57,7 +48,7 @@ function Footer() {
 						</li>
 						<li className="social-icons">
 							<a
-								href="https://www.instagram.com/_.aneesh_raskar._/"
+								href="https://www.instagram.com/sarthakj_206?igsh=ZjVudG9qbjJiYTFn"
 								style={{ color: "white" }}
 								target="_blank"
 								rel="noopener noreferrer">

@@ -22,15 +22,7 @@ function Toolstack() {
 			<Col xs={4} md={2} className="tech-icons">
 				<SiPostman />
 			</Col>
-			<Col xs={4} md={2} className="tech-icons">
-				<SiGooglecolab />
-			</Col>
-			<Col xs={4} md={2} className="tech-icons">
-				<SiJupyter />
-			</Col>
-			<Col xs={4} md={2} className="tech-icons">
-				<SiKaggle />
-			</Col>
+			
 			<Col xs={4} md={2} className="tech-icons">
 				<SiVercel />
 			</Col>

@@ -36,7 +36,8 @@ function NavBar() {
 			className={navColour ? "sticky" : "navbar"}>
 			<Container>
 				<Navbar.Brand href="/" className="d-flex">
-					<img src={logo} className="img-fluid logo" alt="brand" />
+				<strong className="main-name"> Sarthak Jain</strong>
+					{/* <img src={logo} className="img-fluid logo" alt="brand" /> */}
 				</Navbar.Brand>
 				<Navbar.Toggle
 					aria-controls="responsive-navbar-nav"
@@ -87,7 +88,7 @@ function NavBar() {
 
 						<Nav.Item className="fork-btn">
 							<Button
-								href="https://github.com/Zephyrus02"
+								href="https://github.com/sarthakjain1025"
 								target="_blank"
 								className="fork-btn-inner">
 								<AiFillGithub style={{ fontSize: "1.1em" }} />
