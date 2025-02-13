@@ -53,7 +53,7 @@ Used Socket.io for live messaging and MongoDB for storing user data and chat his
               title="Fire-Fighting Bot"
               description="Developed proficiency in Arduino programming, creating a firefighting bot with sensors and
 actuators for fire detection and suppression. Gained experience in interfacing hardware components with software
-programmed, ensuring effective communication and coordination between the bot’s sensors, motors, and control
+programmed, ensuring effective communication and coordination between the bot's sensors, motors, and control
 systems."
               ghLink="#"
             />
